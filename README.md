@@ -1,5 +1,8 @@
 ### Sup 👀
 
+![image](https://github.com/Dean-Cash/dean-cash/assets/144853179/f41dda41-9692-4127-862a-8ceaf5dc7a7b)
+
+
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/A8gJ.gif">
 
 <div display="flex">
