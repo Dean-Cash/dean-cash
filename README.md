@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<div style="padding-top:50.972%;position:relative;"><iframe src="https://gifer.com/embed/A8gJ" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
-<!--
+<img align="right" alt="Coding" width="400" src="add your link 
+  here">
+
+  
 **Dean-Cash/dean-cash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
