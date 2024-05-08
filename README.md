@@ -17,8 +17,7 @@
 ### 🌱 I’m learning
 
 <div display="flex">
-  <img src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=python%20python&logoColor=whitwhite" alt="python"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
+ <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
 </div>
 
 ### 📫 How to reach me
