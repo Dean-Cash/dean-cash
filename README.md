@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*fjgnxITadeJiT6Z6">
+
 <!--
 **Dean-Cash/dean-cash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
