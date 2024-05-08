@@ -2,5 +2,5 @@
 
 ![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/Dean-Cash/dean-cash/assets/144853179/3ab671ba-524a-4158-909f-aa0a68e5f797)
 
-<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
 
