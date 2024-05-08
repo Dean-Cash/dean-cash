@@ -1,9 +1,4 @@
-![github-header-image (2)](https://github.com/Dean-Cash/dean-cash/assets/144853179/e549b197-2de5-48cc-8e7b-bf7bbcc4c902)
-
-![giphy](https://github.com/Dean-Cash/dean-cash/assets/144853179/229ce0c0-0be1-4e2a-ba20-f13d3a660662)
-
-
-
+![github-header-image3](https://github.com/Dean-Cash/dean-cash/assets/144853179/0057282b-697c-420c-bbec-01156cdbb826)
 
 
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/A8gJ.gif">
