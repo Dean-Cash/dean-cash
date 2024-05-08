@@ -4,4 +4,4 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
 
-https://myreadme.vercel.app/api/embed/dean-cash
+https://github-readme-streak-stats.herokuapp.com/?user=your-dean-cash
