@@ -1,6 +1,10 @@
 ![github-header-image3](https://github.com/Dean-Cash/dean-cash/assets/144853179/0057282b-697c-420c-bbec-01156cdbb826)
 
-![Snake animation](https://github.com/dean-cash/github-readme/blob/output/github-contribution-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/Dean-Cash/dean-cash/assets/144853179/3ab671ba-524a-4158-909f-aa0a68e5f797)
 
